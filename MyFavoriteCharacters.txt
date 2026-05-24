@@ -1,0 +1,14 @@
+
+Name	Rarity and Element	Race	Region
+Scaramouche/Wanderer	5★ Anemo	Puppet	Inazuma/Sumeru
+Durin	5★ Pyro	Dragon	Mondstadt
+Illuga	4★ Geo	Human	Nod-Kray
+Xiao/Alatus	5★ Anemo	Adept	Liyue
+Kinich	5★ Dendro	Human	Natlan
+Lohen	5★ Cryo	Human	Mondstadt
+Arlecchino/Peruer	5★ Ryro	Human	Fontaine/Snezhnaya
+Furina/Focalors	5★ Hydro	Archon	Fontaine
+Albedo	5★ Geo	Artificially created human	Mondstadt
+Sandrone	5★ Cryo	Puppet	Fontaine/Snezhnaya
+Raiden Ei/Beelzebub	5★ Electro	Archon	Inazuma
+Kyryll Chudomirovich Flins	5★ Electro	Alv/Fairy	Nod-Kray
